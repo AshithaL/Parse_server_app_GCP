@@ -1,0 +1,19 @@
+{
+  "name": "myfirstparseserverapp",
+  "version": "1.0.0",
+  "description": "My first parse server app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./node_modules/.bin/parse-server"
+
+  },
+  "keywords": [
+    "parse-server"
+  ],
+  "author": "NA",
+  "license": "MIT",
+  "dependencies": {
+    "parse-server": "^4.3.0"
+  }
+}
